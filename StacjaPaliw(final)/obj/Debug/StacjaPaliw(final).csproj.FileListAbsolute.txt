@@ -1,0 +1,9 @@
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\bin\Debug\StacjaPaliw(final).exe.config
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\bin\Debug\StacjaPaliw(final).exe
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\bin\Debug\StacjaPaliw(final).pdb
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\obj\Debug\StacjaPaliw(final).csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\obj\Debug\StacjaPaliw_final_.Form1.resources
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\obj\Debug\StacjaPaliw_final_.Properties.Resources.resources
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\obj\Debug\StacjaPaliw(final).csproj.GenerateResource.Cache
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\obj\Debug\StacjaPaliw(final).exe
+C:\Users\Root\Desktop\StacjaPaliw(final)\StacjaPaliw(final)\obj\Debug\StacjaPaliw(final).pdb
